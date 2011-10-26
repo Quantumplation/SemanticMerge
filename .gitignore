@@ -1,0 +1,10 @@
+*.suo
+*.user
+*.cachefile
+*.xnb
+SemanticMerge/bin
+SemanticMerge/obj
+SemanticMergeTest/bin
+SemanticMergeTest/obj
+*.sln.docstates
+TestResults
